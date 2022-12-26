@@ -4,8 +4,6 @@ mv bana.png ../
 cd ..
 touch ll.txt
 open p.mp3
-while (true) do
-open bana.png
 mkdir a{1..20}
 mkdir b{1..20}
 mkdir c{1..20}
@@ -35,6 +33,8 @@ mkdir wayli{1..20}
 mkdir arabussa{1..20}
 mkdir mtngaa{1..20}
 mkdir yalhbib{1..20}
+while (true) do
+open bana.png
 killall terminal
 killall Finder
 done
